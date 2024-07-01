@@ -32,5 +32,14 @@ A SoftCart adota uma arquitetura híbrida, utilizando bancos de dados locais e n
 - **Plataforma de Big Data:** A SoftCart utiliza um cluster Hadoop para coletar dados para análises.
 - **Análise de Big Data:** Spark é empregado para processar e analisar dados no cluster Hadoop.
 - **ETL (Extract, Transform, Load):** Pipelines ETL são executados no Apache Airflow para mover dados entre OLTP, NoSQL e o data warehouse.
+
+## Módulo 1
+Projetar o esquema do banco de dados OLTP; 
+carregar os dados; 
+Criar script bash para a exportação de todas as linhas da tabela,;
+
+### Ferramentas / Software:
+- MySQL 8.0.22
+- phpMyAdmin 5.0.4.
 ***
   Este projeto faz parte do programa de cursos da formação de Engenheiro de Dados da IBM
