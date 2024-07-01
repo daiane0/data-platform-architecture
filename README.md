@@ -34,9 +34,9 @@ A SoftCart adota uma arquitetura híbrida, utilizando bancos de dados locais e n
 - **ETL (Extract, Transform, Load):** Pipelines ETL são executados no Apache Airflow para mover dados entre OLTP, NoSQL e o data warehouse.
 
 ## Módulo 1
-Projetar o esquema do banco de dados OLTP; 
-carregar os dados; 
-Criar script bash para a exportação de todas as linhas da tabela,;
+- Projetar o esquema do banco de dados OLTP; 
+- carregar os dados; 
+- Criar script bash para a exportação de todas as linhas da tabela;
 
 ### Ferramentas / Software:
 - MySQL 8.0.22
