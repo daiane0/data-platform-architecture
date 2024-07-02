@@ -39,5 +39,17 @@ A SoftCart adota uma arquitetura híbrida, utilizando bancos de dados locais e n
 - Criar script bash para a exportação de todas as linhas da tabela;
 
 
+## Módulo 3:
+- Projetar um Data Warehouse usando a ferramenta de projeto ERD do pgAdmin.
+- Carregar dados em um Data Warehouse.
+- Escrever consultas de agregação de cubo e rollup.
+- Criar visualizações materializadas (/MQTs).
+
+ ![Star schema](https://raw.githubusercontent.com/daiane0/data-platform-architecture/master/erd_dw_softcart.png)
+  <br>
+<p align="center">
+  <em>Esquema estrela do Data Warehouse.</em>
+</p>
+
 ***
   Este projeto faz parte do programa de cursos da formação de Engenheiro de Dados da IBM
