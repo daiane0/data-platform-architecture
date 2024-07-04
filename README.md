@@ -50,7 +50,7 @@ As tabelas do dw foram projetadas com base nos dados amostrais fornecidos:
 ![sample data](https://raw.githubusercontent.com/daiane0/data-platform-architecture/master/ecom-sample-data.png)
 
 
- ![Star schema](https://raw.githubusercontent.com/daiane0/data-platform-architecture/master/erd_dw_softcart.png)
+ ![Star schema](https://raw.githubusercontent.com/daiane0/data-platform-architecture/master/modulo_3/starSchema.png)
   <br>
 <p align="center">
   <em>Esquema estrela do Data Warehouse.</em>
