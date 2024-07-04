@@ -45,6 +45,11 @@ A SoftCart adota uma arquitetura híbrida, utilizando bancos de dados locais e n
 - Escrever consultas de agregação de cubo e rollup.
 - Criar visualizações materializadas (/MQTs).
 
+As tabelas do dw foram projetadas com base nos dados amostrais fornecidos:
+
+![sample data](https://raw.githubusercontent.com/daiane0/data-platform-architecture/master/ecom-sample-data.png)
+
+
  ![Star schema](https://raw.githubusercontent.com/daiane0/data-platform-architecture/master/erd_dw_softcart.png)
   <br>
 <p align="center">
